@@ -66,8 +66,3 @@ Essas descobertas serviram como base para **recomendações estratégicas** de r
 - Monitorar a evolução do desempenho após a implementação das recomendações.
 
 ---
-
-## 📁 Repositório
-
-Acesse o notebook e os arquivos do projeto aqui:  
-👉 [GitHub - Analise-das-Franquias](https://github.com/seu-usuario/Analise-das-Franquias)
